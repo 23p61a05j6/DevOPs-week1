@@ -1,4 +1,4 @@
-/* Basic Reset */
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
@@ -35,7 +35,6 @@ select {
     box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
-/* Button Styling */
 input[type="submit"] {
     width: 100%;
     background-color: #4CAF50;
