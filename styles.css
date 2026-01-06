@@ -7,7 +7,6 @@ body {
     padding-top: 50px;
 }
 
-/* Container Styling */
 .form-container {
     background: white;
     padding: 25px;
@@ -22,7 +21,6 @@ h2 {
     text-align: center;
 }
 
-/* Input Styling */
 input[type="text"],
 input[type="email"],
 select {
